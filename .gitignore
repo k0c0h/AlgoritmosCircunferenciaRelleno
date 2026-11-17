@@ -1,0 +1,17 @@
+
+# Archivos generados por Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos temporales
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
